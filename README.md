@@ -5,6 +5,9 @@ https://chromewebstore.google.com/detail/gmail-spam-filter/ghehikhcifnpinafmnoho
 
 ![image](https://github.com/user-attachments/assets/05ce9e5f-e6a4-4c74-a0f2-8fd467bd26b9)
 
+<img width="1713" height="617" alt="image" src="https://github.com/user-attachments/assets/b6c1f8da-50f9-4642-b91d-8f65e8a136e2" />
+
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
