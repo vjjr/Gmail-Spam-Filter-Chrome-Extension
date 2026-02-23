@@ -1,4 +1,4 @@
-# Gmail Spam Filter Chrome Extension
+# Gmail Spam Filter Chrome Extension 415+ TOTAL INSTALLS
 A modern Chrome extension that uses advanced pattern recognition algorithms to automatically detect and filter spam emails in Gmail with enhanced accuracy.
 
 https://chromewebstore.google.com/detail/gmail-spam-filter/ghehikhcifnpinafmnohonbeiejjolgf
